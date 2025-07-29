@@ -57,7 +57,7 @@ export default function App() {
       {/* Promotional section */}
       <div className="promo">
         <p className="promo-text">
-          Check out our Academy & Coaching. 30% Summer Sale at:
+          Check out our Academy & Coaching:
           <a href={promoLink} target="_blank" rel="noopener noreferrer">
             <img
               src={`${import.meta.env.BASE_URL}LDE-Logo.png`}
